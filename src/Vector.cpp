@@ -1,5 +1,5 @@
 //
-// Created by Keut on 17-9-2018.
+// Created by Mathijs Haakman on 17-9-2018.
 //
 
 #include <cmath>
