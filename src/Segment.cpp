@@ -1,5 +1,5 @@
 //
-// Created by Keut on 5-9-2018.
+// Created by Mathijs Haakman on 5-9-2018.
 //
 #define _USE_MATH_DEFINES /* Use for declaring M_PI in cmath */
 
